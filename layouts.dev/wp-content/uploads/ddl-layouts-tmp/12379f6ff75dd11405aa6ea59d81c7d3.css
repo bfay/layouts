@@ -1,0 +1,96 @@
+/*Layouts css goes here*/
+body {
+  background-color: #3E7A8C;
+}
+
+body .container:first-child {
+  margin-top: 30px;
+}
+
+.container {
+  background-color: #f0f0f0;
+}
+
+.well-large {
+  margin-top: 20px;
+}
+
+.masthead {
+  background-color: #f0f0f0;
+}
+
+.nav-wrap {
+  float: right;
+  margin-top: 40px;
+}
+
+  .nav-wrap .nav,
+  .nav-extra .nav-wrap {
+    margin: 0;
+  }
+
+.nav-extra .nav-wrap {
+  float: left;
+  padding: 0 20px;
+}
+
+.top-logo p {
+  margin: 0;
+}
+
+.slider-wide {
+  padding: 0;
+}
+
+  .slider-wide .carousel {
+    margin: 0;
+    border: solid #222;
+    border-width: 3px 0;
+  }
+
+.features {
+  padding: 20px;
+}
+
+.videos-wrap {
+  padding: 0 20px;
+}
+
+.full-bg {
+  background-color: #386F80;
+}
+
+  .full-bg .container {
+    background: none;
+  }
+
+  .full-bg .widget-cell {
+    padding: 5px 20px;
+  }
+
+  .full-bg .widget-cell,
+  .full-bg .widget-cell a {
+    color: #f7f7f7;
+    font-weight: normal;
+  }
+
+  .full-bg .widget-cell h2 {
+    font-size: 24px;
+    border-bottom: 1px dotted #f7f7f7;
+  }
+  
+.content-border-top {
+  border-top: 2px solid #dddddd;
+}
+
+.content-border-bottom {
+  border-bottom: 2px solid #dddddd;
+}
+
+.sb-margin-top {
+  margin-top: 30px;
+}
+
+.post-padding-left {
+  margin: 0 20px;
+}

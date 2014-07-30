@@ -1,0 +1,2 @@
+Version 1.0.1.1
+	- Fixed: Layouts cell uploader compatible with php < 5.3.6
